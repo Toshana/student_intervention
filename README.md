@@ -11,11 +11,9 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-Udacity recommends our students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
-
 ### Code
 
-Template code is provided in the notebook `student_intervention.ipynb` notebook file. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+Code and analysis is provided in the notebook `student_intervention.ipynb` notebook file. This analysis uses machine learning to classify students into those who may require intervention and those who are expected to graduate on time. It includes a comparison of different classifiers including Decision Trees, Support Vector Machines and K-Nearest Neighbours. 
 
 ### Run
 
